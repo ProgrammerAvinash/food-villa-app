@@ -1,0 +1,16 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  border: 1px solid grey;
+  padding: 6px;
+  background-color: #f0f1f1;
+  font-size: larger;
+}
+.navChilds {
+  display: flex;
+  margin: 10px;
+}
+.nav {
+  margin-right: 10px;
+}
