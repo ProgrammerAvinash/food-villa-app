@@ -14,6 +14,7 @@ const Header = () => {
           <nav className="nav"> home </nav>
           <nav className="nav"> contact </nav>
           <nav className="nav"> about </nav>
+          <nav className="nav"> Cart </nav>
         </div>
       </nav>
     </div>
